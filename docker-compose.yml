@@ -1,0 +1,13 @@
+services:
+  webfrontend:    
+    build:
+      context: .
+      dockerfile: WebFrontEnd/Dockerfile
+
+  webapi:    
+    build:
+      context: .
+      dockerfile: WebApi/Dockerfile
+
+  redis:
+   image: redis
