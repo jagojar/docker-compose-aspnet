@@ -9,5 +9,8 @@ https://learn.microsoft.com/en-us/aspnet/core/security/docker-compose-https?view
 Repo
 https://github.com/MicrosoftDocs/vs-tutorial-samples/tree/docker-multicontainer
 
+Breaking Change Port 80
+https://learn.microsoft.com/en-us/dotnet/core/compatibility/containers/8.0/aspnet-port
+
 
 
